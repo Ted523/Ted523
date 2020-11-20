@@ -3,10 +3,10 @@
 ###### *Software Engineer*
 
 
-A Software Engineer ... 
+A dedicated full stack Software Engineer proficient in Python Programming with a particular interest in developing resilient and scalable software solutions. 
 
 My stack is as follows:
-* **Frontend**: HTML, CSS, React
+* **Frontend**: HTML, CSS, React, Bootstrap
 * **Backend**: Python, Django, Node
 <!--* **CI/CD**: GitHub Actions-->
 <!--* **Cloud Computing**: Google Cloud Platform-->
